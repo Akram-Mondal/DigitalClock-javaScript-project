@@ -5,5 +5,5 @@
 
 ### Sample Image
 
-![Sample One](./image/DigitalClock.png)
+![Sample One](https://github.com/Akram-Mondal/DigitalClock-javaScript-project/blob/main/image/DigitalClock.png)
 
